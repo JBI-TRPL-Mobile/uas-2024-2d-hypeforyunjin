@@ -1,17 +1,24 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/eSYf9ZVB)
-# template_project
+# UJIAN PRAKTIKUM MOBILE
+- NIM : 362358302110
+- NAMA : NISSA SERENA PRIMADANI
+- KELAS : 2D TRPL
 
-A new Flutter project.
+# DESKRIPSI
+Aplikasi ini dibuat bedasarkan wireframe yang disediakan dengan fitur :
+1. sign in dan sign up : autentikasi sederhana.
+2. home screen : menampilkan kategori dan kursus teratas.
+3. message screen : menampilkan daftar pesan.
+4. profile screen : pengaturan akun dan log out.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# SCREENSHOT
+1. tampilan awal home memilih (sign in/ sign up)
+# assets\data\assets\home.png
+2. tampilan sign in
+# assets\data\assets\signin.png
+3. tampilan sign up
+# assets\data\assets\signup.png
+4. tampilan dashboard 
+# assets\data\assets\dashboard.png
+5. tampilan message
+# assets\data\assets\message.png
+6. tampilan user
